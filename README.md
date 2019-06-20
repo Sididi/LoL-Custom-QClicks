@@ -3,6 +3,7 @@
 ### Why was it created for
 
 Ever wanted to use QClick in a different way when playing adc? Or wanted to try different QClicks? Or even hated the way you had to activate your QClick (You **have** to use Mouse Left Button for example)?
+
 Then these scripts are made for you.
 
 -Made with autohotkey-
@@ -27,7 +28,7 @@ You can check them or even modify them at will.
 
 ### To use it
 
-Go on autohotkey's website https://www.autohotkey.com/ and download it.
+Go on autohotkey's website https://www.autohotkey.com/ and download it.  
 Direct link: https://www.autohotkey.com/download/ahk-install.exe
 
 When installed, chose *only one* QClick and double click on it. An autohotkey icon should then appear in your task bar (green logo).
