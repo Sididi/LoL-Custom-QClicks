@@ -1,4 +1,4 @@
-# Custom QClicks
+# League of Legends Custom QClicks
 
 ### Why was it created for
 
